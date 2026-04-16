@@ -93,3 +93,5 @@ If you value AI that respects your time, privacy, and creative freedom:
 > 🌿 *Built for creators, by creators. No tracking. No limits. Just AI that works.*  
 > 🔗 [Open Venice](https://venice.ai/chat?ref=i4kyGp)<!-- 24483327179 1 -->
 <!-- 24483387188 1 -->
+
+[![Visits](https://api.comiccursor.com/v1/badge?username=damacol&repo=claude-guide&style=flat)](https://github.com/Damacol/claude-guide)
